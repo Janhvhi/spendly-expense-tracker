@@ -2,7 +2,7 @@
 
 A mobile-friendly web app to log daily expenses, understand spending with simple KPIs and charts, get AI-style saving tips, and split costs with friends.
 
-**🔗 Live demo:** https://janhvhi.github.io/spendly/
+**🔗 Live demo:** https://janhvhi.github.io/spendly-expense-tracker/
 
 ## Features
 
